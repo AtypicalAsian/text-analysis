@@ -6,10 +6,7 @@ these words appear by maintaining a list of all sentences containing the words. 
 <br/>
 
 ## Output <br/>
-The program produces a listing of all words (in lowercase) appearing in the text file, 
-sorted alphabetically. It also prompts the user to enter one of the words.  The program will 
-then output that word again, along with a listing of each sentence where that word appears.  
-Each sentence is preceded with the sentence number.
+The program produces a listing of all words (in lowercase) appearing in the text file, sorted alphabetically. It also prompts the user to enter one of the words. The program will then output that word again, along with a listing of each sentence where that word appears. Each sentence is preceded with the sentence number.
 <br/>
 
 ## Sample Input <br/>
