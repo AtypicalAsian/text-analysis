@@ -1,5 +1,5 @@
 # text-analysis
-# CS173 Project 1 <br/>
+CS173 Project 1 <br/>
 ## The Idea: <br/>
 The idea is to process a body of text, looking for and recording word appearances in the text. We will build a listing of all the words that appear in a body of text. Additionally, we also keep track of where 
 these words appear by maintaining a list of all sentences containing the words. Keep in mind that we also need to be able to search the text for locations of various words.   
